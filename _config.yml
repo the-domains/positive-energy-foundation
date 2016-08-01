@@ -1,0 +1,14 @@
+layout_spectrum: 0.9963259
+typography_spectrum: 0.1615664
+color:
+  lightness: 0.3403509
+  brandStrength: 0.3287051
+  saturation: 0.3138496
+  rhythmicContrast: 0.7978262
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Positive Energy Foundation
