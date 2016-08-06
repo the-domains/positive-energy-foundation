@@ -1,9 +1,7 @@
-layout_spectrum: 0.9963259
-name: Positive Energy Foundation
-typography_spectrum: 0.1615664
 color:
-  brandStrength: 0.3287051
   saturation: 0.3138496
+  brandStrength: 0.3287051
+  rhythmicContrast: 0.7978262
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
@@ -11,16 +9,18 @@ color:
     - '#6B574B'
     - '#160600'
   lightness: 0.3403509
-  rhythmicContrast: 0.7978262
 collections:
   - index:
-      navigable: true
       path: /
       number: 15
       paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
+      navigable: true
     permalink:
       path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.9963259
+typography_spectrum: 0.1615664
+name: Positive Energy Foundation
